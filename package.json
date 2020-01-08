@@ -1,0 +1,32 @@
+{
+    "name": "@monajs/env-config-webpack-plugin",
+    "version": "1.6.0",
+    "description": "env-config-webpack-plugin",
+    "main": "src/index.js",
+    "files": [
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/monajs/env-config-webpack-plugin.git"
+    },
+    "keywords": [
+        "monajs",
+        "env-config-webpack-plugin"
+    ],
+    "author": "yangxi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/monajs/env-config-webpack-plugin/issues"
+    },
+    "homepage": "https://github.com/monajs/env-config-webpack-plugin#readme",
+    "devDependencies": {
+        "webpack": "^4.41.5",
+        "webpack-dev-server": "^3.1.9"
+    },
+    "peerDependencies": {
+        "fs-extra": ">=8.1.0",
+        "glob": ">=7.1.0",
+        "koa-compose": ">=4.1.0"
+    }
+}

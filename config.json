@@ -1,0 +1,17 @@
+{
+    "common": {
+        "a": 123
+    },
+    "dev": {
+        "basename": ""
+    },
+    "sit": {
+        "basename": "/alimall/detail"
+    },
+    "pre": {
+        "basename": "/alimall/detail"
+    },
+    "production": {
+        "basename": "/alimall/detail"
+    }
+}
